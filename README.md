@@ -10,9 +10,9 @@ Software Engineer at [Dazn](https://www.dazn.com/en-IN/home)
 
 ## About Me
 
-- 💼 Software Engineer at Dazn
+- 💼 Software Engineer at [Dazn](https://www.dazn.com/en-IN/home)
 - ❤️ I love writing TypeScript and building fun experiments on the type-level
-- 💬 Schedule a 1:1 interaction session [here](https://www.dazn.com/en-IN/home)
+- 💬 Schedule a 1:1 interaction session [here](https://topmate.io/vijayanand_r)
 
 ---
 
