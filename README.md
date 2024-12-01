@@ -4,7 +4,7 @@
 
 Software Engineer at [Dazn](https://www.dazn.com/en-IN/home)
 
-[LinkedIn](https://www.linkedin.com/in/vijayanandravi) | [GitHub](https://github.com/vijayanandravi) | [LeetCode](https://leetcode.com/vijayanandravi) | [Scaler](https://scaler.com/profile/vijayanandravi) | [Topmate](https://topmate.io/vijayanand_r)
+[Portfolio](https://portfolio-va-six.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/vijayanandravi) | [GitHub](https://github.com/vijayanandravi) | [LeetCode](https://leetcode.com/vijayanandravi) | [Scaler](https://scaler.com/profile/vijayanandravi) | [Topmate](https://topmate.io/vijayanand_r)
 
 ---
 
