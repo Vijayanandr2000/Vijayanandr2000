@@ -2,7 +2,7 @@
 
 ## Self-taught Full Stack Developer from India 🇮🇳
 
-Software Engineer at [Dazn](https://www.dazn.com/en-IN/home)
+Senior Software Engineer at [Cimpress](https://cimpress.com/)
 
 [Portfolio](https://portfolio-va-six.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/vijayanandravi) | [GitHub](https://github.com/vijayanandravi) | [LeetCode](https://leetcode.com/vijayanandravi) | [Scaler](https://scaler.com/profile/vijayanandravi) | [Topmate](https://topmate.io/vijayanand_r)
 
@@ -10,7 +10,7 @@ Software Engineer at [Dazn](https://www.dazn.com/en-IN/home)
 
 ## About Me
 
-- 💼 Software Engineer at [Dazn](https://www.dazn.com/en-IN/home)
+- 💼 Software Engineer at [Cimpress](https://cimpress.com/)
 - ❤️ I love writing TypeScript and building fun experiments on the type-level
 - 💬 Schedule a 1:1 interaction session [here](https://topmate.io/vijayanand_r)
 
